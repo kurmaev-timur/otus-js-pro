@@ -1,2 +1,2 @@
 # otus-js-pro
-My homeworks from OTUS course
+Homework for lesson 1
